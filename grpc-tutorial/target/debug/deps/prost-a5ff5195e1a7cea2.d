@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Desktop\Sasha\Kuliah\Sem 4\adpro after uts\adpro-tutorial-9\grpc-tutorial\target\debug\deps\libprost-a5ff5195e1a7cea2.rmeta: C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\error.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\message.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\types.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\encoding.rs
+
+C:\Users\Asus\OneDrive\Desktop\Sasha\Kuliah\Sem 4\adpro after uts\adpro-tutorial-9\grpc-tutorial\target\debug\deps\libprost-a5ff5195e1a7cea2.rlib: C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\error.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\message.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\types.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\encoding.rs
+
+C:\Users\Asus\OneDrive\Desktop\Sasha\Kuliah\Sem 4\adpro after uts\adpro-tutorial-9\grpc-tutorial\target\debug\deps\prost-a5ff5195e1a7cea2.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\error.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\message.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\types.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\encoding.rs
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\error.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\message.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\types.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-0.10.4\src\encoding.rs:
